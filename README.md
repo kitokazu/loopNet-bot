@@ -4,6 +4,7 @@ For my friend Ory
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Overview
 
